@@ -1,0 +1,41 @@
+h3 {
+    color: rgb(184, 26, 26);
+}
+.box{
+    height: 220px;
+    width: 500px;
+    padding: 10px;
+    margin: 50px;
+    border: 10px solid white;
+}
+.margin1{
+    height: 550px;
+    width: 600px;
+    padding: 100px;
+    margin: 2px;
+    border:10px
+}
+.margin2{
+    height: 300px;
+    width: 750px;
+    padding: 100px;
+    margin: 2px;
+    border:10px
+}
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, monospace;
+}
+body {background-color: black;
+}
+p{
+    color: white;
+}
+ul{
+    color: white;
+}
+h1{
+    color: white;
+}
+h4{
+    color: white
+}
