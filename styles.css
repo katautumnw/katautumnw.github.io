@@ -13,19 +13,19 @@ h3 {
     width: 600px;
     padding: 100px;
     margin: 2px;
-    border:10px
+    border: 100px;
 }
 .margin2{
-    height: 300px;
-    width: 750px;
+    height: 1000px;
+    width: 80%;
     padding: 100px;
-    margin: 2px;
+    margin: 1px;
     border:10px
 }
 body{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, monospace;
+    font-family:'By the way', sans-serif;
 }
-body {background-color: black;
+body {background-color:rgb(30, 30, 30)
 }
 p{
     color: white;
@@ -35,7 +35,23 @@ ul{
 }
 h1{
     color: white;
+    font-family:'By the way', sans-serif;
+    font-size: 10em
+    ;
 }
 h4{
-    color: white
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
+li{
+    color: white;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ul{font-family: Georgia, 'Times New Roman', Times, serif;}
+li{font-family: Georgia, 'Times New Roman', Times, serif;}
+body{
+     #grad;
+     background-image: linear-gradient(rgb(90, 90, 90), black);
+   }
