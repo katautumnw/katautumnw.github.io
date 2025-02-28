@@ -48,7 +48,7 @@ h3 {
 }
 .infocontainer .infomargin2{
     position: relative;
-    height: 600px;
+    height: 350px;
     width: calc(600px - 15px);
     float: left;
     padding: 20px;
@@ -59,10 +59,10 @@ h3 {
     background-color: rgb(49, 49, 49);
 }
 .footbox{
-    height:800px
-    width: 200px;
-    border: 20px solid white;
-
+    height:100px;
+    padding: 35px;
+    text-align: right;
+    background-color: rgb(157, 157, 157);
 }
 body{
     font-family:'Lacquer'
